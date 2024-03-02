@@ -1,0 +1,6 @@
+{
+ "db_name": "frappedb",
+ "db_password": "60Mfmn3Yi3Q4hTxM",
+ "db_type": "mariadb",
+ "developer_mode": 1
+}
